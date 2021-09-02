@@ -18,7 +18,7 @@ namespace ProblemaAlmacen.Consola
 
             producto1.CodProducto = 001;
 
-            Console.WriteLine(producto1.CodProducto);
+            Console.WriteLine("el codigo de producto es: " + producto1.CodProducto);
 
         }
     }

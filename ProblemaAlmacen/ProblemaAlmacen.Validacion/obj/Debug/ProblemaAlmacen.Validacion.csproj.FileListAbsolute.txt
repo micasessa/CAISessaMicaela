@@ -1,0 +1,6 @@
+C:\Users\micas\OneDrive\Documentos\GitHub\CAISessaMicaela\ProblemaAlmacen\ProblemaAlmacen.Validacion\bin\Debug\ProblemaAlmacen.Validacion.dll
+C:\Users\micas\OneDrive\Documentos\GitHub\CAISessaMicaela\ProblemaAlmacen\ProblemaAlmacen.Validacion\bin\Debug\ProblemaAlmacen.Validacion.pdb
+C:\Users\micas\OneDrive\Documentos\GitHub\CAISessaMicaela\ProblemaAlmacen\ProblemaAlmacen.Validacion\obj\Debug\ProblemaAlmacen.Validacion.csprojAssemblyReference.cache
+C:\Users\micas\OneDrive\Documentos\GitHub\CAISessaMicaela\ProblemaAlmacen\ProblemaAlmacen.Validacion\obj\Debug\ProblemaAlmacen.Validacion.csproj.CoreCompileInputs.cache
+C:\Users\micas\OneDrive\Documentos\GitHub\CAISessaMicaela\ProblemaAlmacen\ProblemaAlmacen.Validacion\obj\Debug\ProblemaAlmacen.Validacion.dll
+C:\Users\micas\OneDrive\Documentos\GitHub\CAISessaMicaela\ProblemaAlmacen\ProblemaAlmacen.Validacion\obj\Debug\ProblemaAlmacen.Validacion.pdb

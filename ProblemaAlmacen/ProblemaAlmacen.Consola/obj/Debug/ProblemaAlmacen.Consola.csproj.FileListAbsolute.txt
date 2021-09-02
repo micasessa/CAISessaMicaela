@@ -1,0 +1,10 @@
+C:\Users\micas\OneDrive\Documentos\GitHub\CAISessaMicaela\ProblemaAlmacen\ProblemaAlmacen.Consola\bin\Debug\ProblemaAlmacen.Consola.exe.config
+C:\Users\micas\OneDrive\Documentos\GitHub\CAISessaMicaela\ProblemaAlmacen\ProblemaAlmacen.Consola\bin\Debug\ProblemaAlmacen.Consola.exe
+C:\Users\micas\OneDrive\Documentos\GitHub\CAISessaMicaela\ProblemaAlmacen\ProblemaAlmacen.Consola\bin\Debug\ProblemaAlmacen.Consola.pdb
+C:\Users\micas\OneDrive\Documentos\GitHub\CAISessaMicaela\ProblemaAlmacen\ProblemaAlmacen.Consola\bin\Debug\ProblemaAlmacen.Validacion.dll
+C:\Users\micas\OneDrive\Documentos\GitHub\CAISessaMicaela\ProblemaAlmacen\ProblemaAlmacen.Consola\bin\Debug\ProblemaAlmacen.Validacion.pdb
+C:\Users\micas\OneDrive\Documentos\GitHub\CAISessaMicaela\ProblemaAlmacen\ProblemaAlmacen.Consola\obj\Debug\ProblemaAlmacen.Consola.csprojAssemblyReference.cache
+C:\Users\micas\OneDrive\Documentos\GitHub\CAISessaMicaela\ProblemaAlmacen\ProblemaAlmacen.Consola\obj\Debug\ProblemaAlmacen.Consola.csproj.CoreCompileInputs.cache
+C:\Users\micas\OneDrive\Documentos\GitHub\CAISessaMicaela\ProblemaAlmacen\ProblemaAlmacen.Consola\obj\Debug\ProblemaAlmacen.Consola.csproj.CopyComplete
+C:\Users\micas\OneDrive\Documentos\GitHub\CAISessaMicaela\ProblemaAlmacen\ProblemaAlmacen.Consola\obj\Debug\ProblemaAlmacen.Consola.exe
+C:\Users\micas\OneDrive\Documentos\GitHub\CAISessaMicaela\ProblemaAlmacen\ProblemaAlmacen.Consola\obj\Debug\ProblemaAlmacen.Consola.pdb
