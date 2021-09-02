@@ -8,40 +8,58 @@ namespace ProblemaAlmacen.Validacion
 {
     public class Producto
     {
+        //atributos de la clase producto
         private int _codProducto;
         private string _nombreProducto;
         private decimal _precioProducto;
         private string _categoriaProducto;
 
+        //Escondo los "detalles" mediante encapsulamiento
         public int CodProducto
         {
             get
-            { return _codProducto; }
+            { 
+                return _codProducto; 
+            }
             set
-            { _codProducto value;}        
+            { 
+                _codProducto =  value;
+            }        
         }
 
         public string NombreProducto
         {
             get
-            { return _nombreProducto; }
+            { 
+                return _nombreProducto; 
+            }
             set
-            { _nombreProducto value; }
+            { 
+                _nombreProducto = value; 
+            }
         }
         public decimal PrecioProducto
         {
             get
-            { return _precioProducto; }
+            { 
+                return _precioProducto; 
+            }
             set
-            { _precioProducto value; }
+            { 
+                _precioProducto = value; 
+            }
         }
 
         public string CategoriaProducto
         {
             get
-            { return _categoriaProducto; }
+            { 
+                return _categoriaProducto; 
+            }
             set
-            { _categoriaProducto value; }
+            { 
+                _categoriaProducto = value; 
+            }
         }
 
 

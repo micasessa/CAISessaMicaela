@@ -49,5 +49,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ProblemaAlmacen.Validacion\ProblemaAlmacen.Validacion.csproj">
+      <Project>{26bbd818-1a55-45f8-b7c4-22d64aa16195}</Project>
+      <Name>ProblemaAlmacen.Validacion</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
