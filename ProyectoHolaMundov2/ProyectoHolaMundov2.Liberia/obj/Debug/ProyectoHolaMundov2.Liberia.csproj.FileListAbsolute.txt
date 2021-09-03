@@ -1,0 +1,6 @@
+C:\Users\micas\OneDrive\Documentos\GitHub\CAISessaMicaela\ProyectoHolaMundov2\ProyectoHolaMundov2.Liberia\bin\Debug\ProyectoHolaMundov2.Liberia.dll
+C:\Users\micas\OneDrive\Documentos\GitHub\CAISessaMicaela\ProyectoHolaMundov2\ProyectoHolaMundov2.Liberia\bin\Debug\ProyectoHolaMundov2.Liberia.pdb
+C:\Users\micas\OneDrive\Documentos\GitHub\CAISessaMicaela\ProyectoHolaMundov2\ProyectoHolaMundov2.Liberia\obj\Debug\ProyectoHolaMundov2.Liberia.csprojAssemblyReference.cache
+C:\Users\micas\OneDrive\Documentos\GitHub\CAISessaMicaela\ProyectoHolaMundov2\ProyectoHolaMundov2.Liberia\obj\Debug\ProyectoHolaMundov2.Liberia.csproj.CoreCompileInputs.cache
+C:\Users\micas\OneDrive\Documentos\GitHub\CAISessaMicaela\ProyectoHolaMundov2\ProyectoHolaMundov2.Liberia\obj\Debug\ProyectoHolaMundov2.Liberia.dll
+C:\Users\micas\OneDrive\Documentos\GitHub\CAISessaMicaela\ProyectoHolaMundov2\ProyectoHolaMundov2.Liberia\obj\Debug\ProyectoHolaMundov2.Liberia.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoHolaMundov2.Consola", "ProyectoHolaMundov2.Consola\ProyectoHolaMundov2.Consola.csproj", "{87938B18-1C63-42F8-A7B0-657DF601BF54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoHolaMundov2.Liberia", "ProyectoHolaMundov2.Liberia\ProyectoHolaMundov2.Liberia.csproj", "{EAF81739-7711-41E5-8722-34B63BDAF904}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87938B18-1C63-42F8-A7B0-657DF601BF54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87938B18-1C63-42F8-A7B0-657DF601BF54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87938B18-1C63-42F8-A7B0-657DF601BF54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87938B18-1C63-42F8-A7B0-657DF601BF54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAF81739-7711-41E5-8722-34B63BDAF904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAF81739-7711-41E5-8722-34B63BDAF904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAF81739-7711-41E5-8722-34B63BDAF904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAF81739-7711-41E5-8722-34B63BDAF904}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B68015F5-CED4-4053-8293-26430C42659E}
+	EndGlobalSection
+EndGlobal
