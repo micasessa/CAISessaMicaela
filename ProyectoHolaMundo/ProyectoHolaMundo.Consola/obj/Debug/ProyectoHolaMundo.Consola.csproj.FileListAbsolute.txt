@@ -1,0 +1,10 @@
+C:\Users\micas\OneDrive\Documentos\GitHub\CAISessaMicaela\ProyectoHolaMundo\ProyectoHolaMundo.Consola\bin\Debug\ProyectoHolaMundo.Consola.exe.config
+C:\Users\micas\OneDrive\Documentos\GitHub\CAISessaMicaela\ProyectoHolaMundo\ProyectoHolaMundo.Consola\bin\Debug\ProyectoHolaMundo.Consola.exe
+C:\Users\micas\OneDrive\Documentos\GitHub\CAISessaMicaela\ProyectoHolaMundo\ProyectoHolaMundo.Consola\bin\Debug\ProyectoHolaMundo.Consola.pdb
+C:\Users\micas\OneDrive\Documentos\GitHub\CAISessaMicaela\ProyectoHolaMundo\ProyectoHolaMundo.Consola\bin\Debug\ProyectoHolaMundo.Libreria.dll
+C:\Users\micas\OneDrive\Documentos\GitHub\CAISessaMicaela\ProyectoHolaMundo\ProyectoHolaMundo.Consola\bin\Debug\ProyectoHolaMundo.Libreria.pdb
+C:\Users\micas\OneDrive\Documentos\GitHub\CAISessaMicaela\ProyectoHolaMundo\ProyectoHolaMundo.Consola\obj\Debug\ProyectoHolaMundo.Consola.csprojAssemblyReference.cache
+C:\Users\micas\OneDrive\Documentos\GitHub\CAISessaMicaela\ProyectoHolaMundo\ProyectoHolaMundo.Consola\obj\Debug\ProyectoHolaMundo.Consola.csproj.CoreCompileInputs.cache
+C:\Users\micas\OneDrive\Documentos\GitHub\CAISessaMicaela\ProyectoHolaMundo\ProyectoHolaMundo.Consola\obj\Debug\ProyectoHolaMundo.Consola.csproj.CopyComplete
+C:\Users\micas\OneDrive\Documentos\GitHub\CAISessaMicaela\ProyectoHolaMundo\ProyectoHolaMundo.Consola\obj\Debug\ProyectoHolaMundo.Consola.exe
+C:\Users\micas\OneDrive\Documentos\GitHub\CAISessaMicaela\ProyectoHolaMundo\ProyectoHolaMundo.Consola\obj\Debug\ProyectoHolaMundo.Consola.pdb
